@@ -1,0 +1,9 @@
+spring :
+  datasource :
+    url: jdbc:mysql://localhost:3306/stuSystem
+    username: root
+    password : yesithsri
+
+  jpa:
+    hibernate:
+      ddl-auto: update
